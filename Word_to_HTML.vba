@@ -1,5 +1,4 @@
-
-'**Written by: Dylan Lang nb57257**'
+'**Written by: Dylan Lang**'
 
 Sub Convert()
 Dim alert As Integer
